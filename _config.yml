@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SkyLYnf"
+title                    : "EllaLee"
 title_separator          : "-"
-name                     : &name "Luming Yang"
-description              : &description "Kind person."
-url                      : https://skylynf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Siqing Li"
+description              : 
+url                      : http://ellaleee.me/ellalee.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "skylynf/skylynf.github.io"
+repository               : "lelel-hue/ellalee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luming Yang"
+  name             : "Siqing Li"
   avatar           : "profile.png"
   bio              : "Undergraduate from Southern University of Science and Technology"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : yanglm2020@mail.sustech.edu.cn
+  email            : lisq2022@mail.sustech.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "skylynf"
+  github           : "EllaLee"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-9697-9883"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
