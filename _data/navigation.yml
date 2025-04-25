@@ -12,7 +12,10 @@ main:
     url: /
 
   - title: "Academic"
-    url: /academic/    
+    url: /academic/
+
+  - title: "Honors"
+    url: /honors/
 
   - title: "Projects"
     url: /project/    
@@ -23,11 +26,11 @@ main:
   # - title: ""
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
   # - title: "CV"
-  #   url: /CV_Siqing Li.pdf/
+  #   url: /cv/
+    
+  - title: "CV"
+    url: /CV_Siqing Li.pdf
     
   # - title: "Guide"
   #   url: /markdown/
