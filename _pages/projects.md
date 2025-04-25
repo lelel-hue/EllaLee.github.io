@@ -17,7 +17,7 @@ author_profile: true
 - Fine-tuned the **Gemma2 model** for Chinese QA tasks using the **Evol-Instruct-Chinese-GPT4** dataset.  
 - Leveraged **LoRA** for parameter-efficient adaptation and **RAG** for enhancing contextual understanding.  
 - Delivered a comprehensive analysis of the model’s performance, highlighting key improvement areas and proposing future optimizations for better generalization in unseen QA tasks.  
-- **Report URL**: [Fine-tuning Gemma2 on Chinese GPT-4 QA Dataset¶ | Kaggle](https://www.kaggle.com/code/mengmenggao/fine-tuning-gemma2-on-chinese-gpt-4-qa-dataset)
+- **Report URL**: https://www.kaggle.com/code/mengmenggao/fine-tuning-gemma2-on-chinese-gpt-4-qa-dataset
 
 ---
 
