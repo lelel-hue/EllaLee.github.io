@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Luming Yang - Profile"
+title: "Siqing Li - Profile"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,15 +12,15 @@ redirect_from:
 I'm now an undergraduate student at Southern University of Science and Technology, majoring in Data Science. My undergraduate research direction is Computer Vision, and Time Series Analysis. 
 As a passionate person, I am sunny and cheerful, have done many volunteer services, and have strong leadership skills. I devote wholeheartedly to my field of interest, and have good enthusiasm and passion.
 
-![Me at talk](/images/talk.jpg "Me at talk")
+![Me at talk](/images/givingatalk.jpg "Me giving talk")
 
 Me giving talk
 
-![Me giving presentation]()
+![Me giving presentation](/images/givingapresentation.jpg "Me giving presentation")
 
 Me giving presentation
 
-![Me at Conference](/images/withwolunteers.jpg "Me at Conference")
+![Me at Conference](/images/withwolunteers.jpg "Me with friends")
 
 Me with Friends
 
