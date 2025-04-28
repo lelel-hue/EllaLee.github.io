@@ -40,7 +40,7 @@ Beyond the university borders, we extended our outreach to ten local communities
 - Effectively managed diverse situations, including suspected cases of epilepsy, fractures, trauma, heatstroke, hyperventilation, and snake bites.
 - Honored with 'SUSTech Emergency Rescue Model' for outstanding contributions, twice.
 
-![Group Photo](/images/four.jpg)
+![Group Photo](/images/four.png)
 My experience
 
 
